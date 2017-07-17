@@ -55,7 +55,7 @@ debugger;
         var synth = window.speechSynthesis;
         var voices = synth.getVoices();
         var msg = new window.SpeechSynthesisUtterance(theBody);
-        msg.volume = 10;
+        msg.volume = 1;
         msg.voice = voices[4];
         
         synth.speak(msg);
