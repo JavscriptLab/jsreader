@@ -20,7 +20,7 @@ javascript: (function(w, d) {
         return text;
     };
 
-    var sentences = getSelectionText().replace(/([\n.?!])\s*(?=[A-Z])/g, "$1|").split("|");
+    var sentences = getSelectionText().replace(/([\n.?!])\s*(?=[A-Za-z])/g, "$1|").split("|");
     var noti = 0;
     var showednot = false;
 
