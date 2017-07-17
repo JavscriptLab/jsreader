@@ -106,7 +106,7 @@ javascript: (function(w, d) {
                 for (var m = 0; m < pieces.length; m++) {
 
                     var text = pieces[m].split("'")[0].split(",")[0].split(".")[0];
-                    if (text.length > 3) {
+                    if (text.length > 4) {
                        dictionary(text.toLowerCase());
                     }
                 }
