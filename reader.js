@@ -1,4 +1,3 @@
-﻿
 javascript: (function(w, d) {
     
 
