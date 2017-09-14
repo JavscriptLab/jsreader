@@ -3,7 +3,7 @@ View each sentences in screen and here voice Go to Wiki for details
 
 Steps
 
-If you not anabled boomarks 
+If you not enabled boomarks 
 press Control+Shift+b( in chrome ) or enable bookmarks bar first
 
 1. Go to reader.js page ( Open in new tab )
